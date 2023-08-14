@@ -8,6 +8,7 @@ under construction
 
 Part 1 -> https://github.com/CrackXT/Own_RPI_Streamer_PCB<br>
 Part 2 -> https://github.com/CrackXT/Own_RPI_Expansion_PCB<br>
+Part 3 -> https://github.com/CrackXT/Own_RPI_Bridge_PCB<br>
 
 # License
 
