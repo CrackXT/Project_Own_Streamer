@@ -1,6 +1,6 @@
 # Project_Own_Streamer
 
-Platzhalter
+Digitaler Streamer (Webradio / Music Archiv)
 
 under construction
 
