@@ -6,8 +6,8 @@ part list for Use
 1x Anker Nano 3 (A2147) https://www.amazon.de/dp/B0B2VC6J8Q/ref=twister_B0BD6XX9F5?_encoding=UTF8&psc=1
 
 # Cable
-1x USB-C cable https://www.amazon.de/dp/B09K6DF1QH/ref=twister_B0BMV7Q23K?_encoding=UTF8&th=1
-1x coax digital cable https://www.reichelt.de/cinch-audio-kabel-cinch-stecker-1-5-m-son-ac800-015-p283136.html
+1x USB-C cable https://www.amazon.de/dp/B09K6DF1QH/ref=twister_B0BMV7Q23K?_encoding=UTF8&th=1<br>
+1x coax digital cable https://www.reichelt.de/cinch-audio-kabel-cinch-stecker-1-5-m-son-ac800-015-p283136.html<br>
 
 # internal power supply
 1x S13V30F5 https://www.berrybase.de/pololu-5v-step-up/step-down-spannungsregler-s13v30f5
