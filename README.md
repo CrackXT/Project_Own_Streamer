@@ -1,6 +1,6 @@
 # Project_Own_Streamer
 
-Digitaler Streamer (Webradio / Music Archiv)
+Digitaler Music Streamer (Webradio / Music Archiv)
 
 under construction
 
