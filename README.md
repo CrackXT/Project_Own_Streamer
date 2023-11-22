@@ -6,10 +6,10 @@ under construction
 
 # Description
 
-Part 1 -> https://github.com/CrackXT/Own_RPI_Streamer_PCB<br>
-Part 2 -> https://github.com/CrackXT/Own_RPI_Expansion_PCB<br>
-Part 3 -> https://github.com/CrackXT/Own_RPI_Bridge_PCB<br>
-Part 4 -> https://github.com/CrackXT/Own_RPI_LED_PCB<br>
+Part 1 (online) -> https://github.com/CrackXT/Own_RPI_Streamer_PCB<br>
+Part 2 (online) -> https://github.com/CrackXT/Own_RPI_Expansion_PCB<br>
+Part 3 (under construction) -> https://github.com/CrackXT/Own_RPI_Bridge_PCB<br>
+Part 4 (under construction) -> https://github.com/CrackXT/Own_RPI_LED_PCB<br>
 
 # Spec
 
@@ -22,7 +22,7 @@ Panel: AMOLED<br>
 IC: WM8804<br>
 
 - OS<br>
-Android: 13<br>
+Android: 14<br>
 
 # License
 
